@@ -26,7 +26,9 @@
 /* nave bar design */
 nav{
     display: flex;
-    
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 200px;
 }
 .nav-title{
     font-size: 45px;
