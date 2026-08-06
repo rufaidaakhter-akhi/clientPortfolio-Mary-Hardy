@@ -1,0 +1,10 @@
+/* common aera design */
+*{
+    margin:0;
+    padding:0;
+}
+
+/* nave bar design */
+nav{
+    display: flex;
+}
