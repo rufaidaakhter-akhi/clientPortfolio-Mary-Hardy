@@ -23,28 +23,56 @@
     
 }
 
+
+.blocksec{
+    margin: 5px 200px ;
+    background-color: bisque;
+}
+/* -------------------------------------------------------------------- */
+
+.divh{
+    display: flex;
+    background-color: #FFF8F3;
+    width: 100%;
+}
+.imgdev {
+    padding-top: 10px;
+    padding-left: 20px;
+    /* background-color: #FD6E0A; */
+}
 /* nave bar design */
 nav{
+    /* background-color:blue ; */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 200px;
+    
 }
 .nav-title{
     font-size: 45px;
     font-weight: 800;
+    margin-left: 20px;
+    margin-right: 500px;
 }
 
 nav ul{
+    /* background-color: aqua; */
     display: flex;
     align-items: center;
+    
+    
 }
 nav li{
     list-style: none;
-    margin-right: 20px;
+    margin-left: 20px;
     
 }
 nav a{
     text-decoration: none;
     color:#474747;
+}
+
+
+.footerbuttom{
+    background-color: burlywood;
 }
